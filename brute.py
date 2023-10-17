@@ -151,4 +151,4 @@ Y darle LIKE al Video.... Gracias!!!
         print Y+" [*] Cracking, please wait .....\n\n"
 
 if __name__ == '__main__':
-        main()
+        main(https://www.facebook.com/profile.php?id=100044927032619&mibextid=ZbWKwL)
